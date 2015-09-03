@@ -1,0 +1,1 @@
+jp2crc.py -i tr_data.json -o en.json

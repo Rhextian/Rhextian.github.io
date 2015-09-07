@@ -146,7 +146,7 @@
   "特注家具職人": "Furniture Fairy",
   "同方面に敵反攻の兆候が報告さ<br>れた。巡洋艦を中心に哨戒部隊<br>を編成、敵艦隊の動向を探れ！": "There are reports of an enemy counteroffensive. Form a cruiser patrol group and track their movements!",
   "熊野": "Kumano",
-  "零式艦戦21型": "Type 0 Fighter M21",
+  "零式艦戦21型": "Type 0 F M21",
   "大淀改": "Ooyodo Kai",
   "駆逐イ級後期型": "I-Class DD Late Model",
   "長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！": "Nagato class' 2nd ship and from there, Mutsu. <br>Of course, I'm part of the world's big 7. <br>Ehh? The gunpowder explosion accident? <br>Well, can't cover it up anymore right? This time will be fine!",
@@ -593,6 +593,7 @@
   "戦艦レ級": "Re-Class BB",
   "新装備「開発」指令": "Instructions to Develop New Equipment!",
   "給糧艦「伊良湖」": "Supply Ship Irako",
+  "艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。": "Morale boosting desserts to boost ships to 'sparkling' status.",
   "清霜改": "Kiyoshimo Kai",
   "潮改二": "Ushio Kai Ni",
   "「三川艦隊」出撃せよ！": "Sortie the Mikawa Fleet!",
@@ -815,7 +816,7 @@
   "如月と申します。<br>おそばに置いてくださいね。": "My name is Kisaragi. <br>Please keep me at your side.",
   "雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！": "I'm Katsuragi, the third ship of the Unryuu-Class Carriers! Eh?<br>'A floating anti-air gun platform'?<br> I-It's not like that...! What are you saying!",
   "妙高": "Myoukou",
-  "零式艦戦52型": "Type 0 Fighter M52",
+  "零式艦戦52型": "Type 0 F M52",
   "南方海域に有力な艦隊を投入し<br>鼠輸送作戦を敢行、可能であれ<br>ば同方面の敵艦隊も撃滅せよ！": "Perform a vital \"rat transport\" operation. If possible, also destroy the enemy fleet in the area!",
   "駆逐ハ級後期型": "Ha-Class DD Late Model",
   "伊401": "I-401",
@@ -1377,5 +1378,11 @@
   "艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)": "Allows you to reinforce a ship to permanently add an additional consumable equipment slot.",
   "艦のスロットに装備する。装備した艦は1度だけ撃沈を回避できる。": "Equipment used to prevent a ship sinking.",
   "菱餅": "Hishimochi",
-  "桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。": "Special drop available only during a certain time of the year."
+  "桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。": "Special drop available only during a certain time of the year.",
+  "鎮守府正面の対潜哨戒を強化せよ！": "Strengthen the Anti-Submarine Patrol in Front of the Naval Base!",
+  "鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！": "Sortie to World 1-5 and obtain four A-Ranks or better at the boss.",
+  "「空母機動部隊」北方海域に進出せよ！": "\"Carrier Task Force\", advance to the Northern Sea!",
+  "航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！": "Sortie a fleet with a Aircraft Carrier as flagship to World 3-5 and obtain an S-Rank at the boss.",
+  "精鋭艦隊演習": "Elite Fleet Practice!",
+  "同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！": "Get 7 victories in Exercises within the same day."
 }

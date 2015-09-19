@@ -20,7 +20,6 @@
   "潜水母艦": " AS ",
   "練習巡洋艦": " CT ",
   "補給艦": " AO ",
-
   "長門": "Nagato",
   "長門改": "Nagato Kai",
   "私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。": "I am Battleship Nagato, pleased to meet you. <br>Leave the enemy battleships to me.\n",
@@ -114,7 +113,7 @@
   "山城": "Yamashiro",
   "山城改": "Yamashiro Kai",
   "山城改二": "Yamashiro Kai Ni",
-  "扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？": "The younger of the Fusou-class battleship sisters, Yamashiro here. <br>Umm, have you seen my sister Fusou?\n  "
+  "扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？": "The younger of the Fusou-class battleship sisters, Yamashiro here. <br>Umm, have you seen my sister Fusou?\n",
   "天龍": "Tenryuu",
   "天龍改": "Tenryuu Kai",
   "オレの名は天龍。<br>フフフ、怖いか？": "My name is Tenryuu. <br>Fufufu, ya scared?\n",
@@ -124,7 +123,7 @@
   "龍驤": "Ryuujou",
   "龍驤改": "Ryuujou Kai",
   "龍驤改二": "Ryuujou Kai Ni",
-  "軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！": "Light aircraft carrier, Ryuujou here! Ain't my silhouette distinctive? <br>But, launching carrier planes one-after-another makes me a proper carrier, ya know!　You can count on me!\n  "
+  "軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！": "Light aircraft carrier, Ryuujou here! Ain't my silhouette distinctive? <br>But, launching carrier planes one-after-another makes me a proper carrier, ya know!　You can count on me!\n",
   "睦月": "Mutsuki",
   "睦月改": "Mutsuki Kai",
   "睦月改二": "Mutsuki Kai Ni",
@@ -254,7 +253,7 @@
   "はじめまして、利根型２番艦、筑摩と申します。": "Pleased to meet you. <br>Second of the Tone-class heavy cruisers, Chikuma here.\n",
   "飛鷹": "Hiyou",
   "飛鷹改": "Hiyou Kai",
-  "名前は出雲ま…じゃなかった、飛鷹です。<br>航空母艦よ。よろしくね、提督！": "My name is Izumo Ma... no, Hiyou. <br>I'm an aircraft carrier. Pleased to meet you, Admiral!\n,
+  "名前は出雲ま…じゃなかった、飛鷹です。<br>航空母艦よ。よろしくね、提督！": "My name is Izumo Ma... no, Hiyou. <br>I'm an aircraft carrier. Pleased to meet you, Admiral!\n",
   "隼鷹": "Junyou",
   "隼鷹改": "Junyou Kai",
   "隼鷹改二": "Junyou Kai Ni",
@@ -267,7 +266,7 @@
   "特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！": "Special-type destroyer, Akebono. <br>Hey! Don't look at me, you shitty Admiral!\n",
   "漣": "Sazanami",
   "漣改": "Sazanami Kai",
-  "綾波型駆逐艦「漣」です、ご主人さま。<br>こう書いてさざなみと読みます。": "Ayanami-class destroyer Sazanami, Master. <br>You write it like this, but read it as \"Sazanami\"./n",
+  "綾波型駆逐艦「漣」です、ご主人さま。<br>こう書いてさざなみと読みます。": "Ayanami-class destroyer Sazanami, Master. <br>You write it like this, but read it as \"Sazanami\".\n",
   "潮": "Ushio",
   "潮改": "Ushio Kai",
   "潮改二": "Ushio Kai Ni",
@@ -278,7 +277,7 @@
   "暁よ。<br>一人前のレディーとして扱ってよね！": "I'm Akatsuki! <br>Treat me like the fully-fledged lady I am!\n",
   "響": "Hibiki",
   "響改": "Hibiki Kai",
-  "Верный": "Verniy  "
+  "Верный": "Verniy",
   "響だよ。<br>その活躍ぶりから,不死鳥の通り名もあるよ。": "Hibiki here. <br>I'm often referred to as \"The Phoenix\" due to my exploits.\n",
   "雷": "Ikazuchi",
   "雷改": "Ikazuchi Kai",
@@ -311,8 +310,8 @@
   "村雨": "Murasame",
   "村雨改": "Murasame Kai",
   "村雨改二": "Murasame Kai Ni",
-  "はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！": "Yes ye~s! I'm the Shiratsuyu-class destroyer, Murasame. <br>Everyone, nice to meet you! \n  "
-  "夕立": "Yuudachi  "
+  "はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！": "Yes ye~s! I'm the Shiratsuyu-class destroyer, Murasame. <br>Everyone, nice to meet you!\n",
+  "夕立": "Yuudachi",
   "夕立改": "Yuudachi Kai",
   "夕立改二": "Yuudachi Kai Ni",
   "こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！": "Hi, I'm Yuudachi, a Shiratsuyu-class destroyer. <br>Nice to meet you!\n",
@@ -343,7 +342,7 @@
   "霞よ。<br>ガンガンいくわよ。ついてらっしゃい。": "I'm Kasumi. <br>What are we waiting for? Come on!\n",
   "陽炎": "Kagerou",
   "陽炎改": "Kagerou Kai",
-  "やっと会えた！　陽炎よ。<br>よろしくねっ！": "We've finally met! I'm Kagerou. <br>Treat me well!\n  "
+  "やっと会えた！　陽炎よ。<br>よろしくねっ！": "We've finally met! I'm Kagerou. <br>Treat me well!\n",
   "不知火": "Shiranui",
   "不知火改": "Shiranui Kai",
   "不知火です。<br>ご指導ご鞭撻、よろしくです。": "Shiranui here. <br>I look forward to your guidance and encouragement.\n",
@@ -607,7 +606,7 @@
   "「第五航空戦隊」を編成せよ！": "Organize the 5th Carrier Division!",
   "「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！": "Have Shoukaku, Zuikaku and 2 Destroyers in your main fleet.",
   "新「三川艦隊」を編成せよ！": "Organize the New Mikawa Fleet!",
-  "「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu in your main fleet.  "
+  "「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu in your main fleet.",
   "潜水艦隊を編成せよ！": "Organize a Submarine Fleet!",
   "伊号潜水艦2隻からなる潜水艦隊を編成せよ！": "Have 2 Submarines in your fleet.",
   "航空水上打撃艦隊を編成せよ！": "Organize an Aviation Surface Attack Fleet!",
@@ -675,7 +674,7 @@
   "鎮守府正面海域を護れ！": "Guard the Sea in Front of the Naval Base!",
   "鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！": "Sortie to World 1-1 and clear the stage.",
   "第２艦隊、出撃せよ！": "Sortie The 2nd Fleet!",
-  "新たに編成した「第２艦隊」を出撃せよ！": "Sortie your second fleet.  "
+  "新たに編成した「第２艦隊」を出撃せよ！": "Sortie your second fleet.",
   "南西諸島沖に出撃せよ！": "Sortie to the Sea around Nansei Islands!",
   "南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！": "Sortie to World 1-2 and clear the stage.",
   "接近する「敵前衛艦隊」を迎撃せよ！": "Intercept the Approaching Enemy Vanguard Fleet!",
@@ -685,7 +684,7 @@
   "「重巡洋艦」を出撃させよ！": "Sortie a Heavy Cruiser!",
   "重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！": "Sortie a fleet with a Heavy Cruiser as flagship.",
   "「戦艦」を出撃させよ！": "Sortie a Battleship!",
-  "海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！": "Sortie a fleet with a Battleship as flagship. (BBV don't count)  "
+  "海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！": "Sortie a fleet with a Battleship as flagship. (BBV don't count)",
   "「空母機動部隊」出撃せよ！": "Sortie a Carrier Task Force!",
   "空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！": "Sortie a Light/Standard Carrier flagship and 5 Light Cruisers, Destroyers or Seaplane Tenders.",
   "敵空母を撃沈せよ！": "Sink an Enemy Carrier!",
@@ -963,12 +962,12 @@
   "33号対水上電探": "Type 33 Surface Radar",
   "21号対空電探": "Type 21 Air Radar",
   "32号対水上電探": "Type 32 Surface Radar",
-  "14号対空電探": "Type 14 Air Radar  "
+  "14号対空電探": "Type 14 Air Radar",
   "改良型艦本式タービン": "Impr Kanhon Turbine",
   "強化型艦本式缶": "Enhc Kanhon Boiler",
   "三式弾": "Type 3 Shell",
   "九一式徹甲弾": "Type 91 AP Shell",
-  "7.7mm機銃": "7.7mm Machine Gun",`
+  "7.7mm機銃": "7.7mm Machine Gun",
   "12.7mm単装機銃": "12.7mm Machine Gun",
   "25mm連装機銃": "25mm Twin Autocannon",
   "25mm三連装機銃": "25mm Triple Autocannon",
@@ -987,7 +986,7 @@
   "紫電改二": "Shiden Kai 2",
   "震電改": "Shinden Kai",
   "彗星一二型甲": "Suisei M12A",
-  "61cm五連装(酸素)魚雷": "61cm Quint(O2)Torpedo  "
+  "61cm五連装(酸素)魚雷": "61cm Quint(O2)Torpedo",
   "零式水上観測機": "Type 0 Obsrv Seaplane",
   "零式艦戦62型(爆戦)": "Type 0 F/B M62",
   "二式艦上偵察機": "Type 2 Recon Aircraft",
@@ -1046,7 +1045,7 @@
   "Ar196改": "Ar196 Kai",
   "一式徹甲弾": "Type 1 AP Shell",
   "試製46cm連装砲": "Proto 46cm Twin Gun",
-  "紫雲": "Shiun  "
+  "紫雲": "Shiun",
   "14cm連装砲": "14cm Twin Gun",
   "91式高射装置": "Type 91 AAFD",
   "94式高射装置": "Type 94 AAFD",
@@ -1133,7 +1132,7 @@
   "装備を改修する為の資材、「改修工廠」で使用します。": "Materials used for Improving Equipment.",
   "給糧艦「伊良湖」": "Supply Ship Irako",
   "艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。": "Morale boosting desserts to boost ships to 'sparkling' status.",
-  "プレゼント箱": "Present Box  "
+  "プレゼント箱": "Present Box",
   "特別な時期だけ発見が可能となる丁寧に包装された「プレゼント箱」。開封時に希望の中味を選択することが可能です。": "Special drops available only during a certain time of the year.",
   "艦娘からのチョコ": "Special Chocolate",
   "艦娘から贈られたチョコ。クリックして資源にするのもよし、保存しておくのもよし。": "Another item only available during a limited time of the year.",
